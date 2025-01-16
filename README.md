@@ -9,7 +9,7 @@
 ## ¿Qué es Debian?
 Debian es un sistema operativo basado en software libre y de código abierto. Fue creado en 1993 y es uno de los sistemas más estables y populares del mundo. Es utilizado por personas, organizaciones y empresas que buscan un sistema confiable y seguro. Además, Debian es completamente gratuito y sirve como base para otras distribuciones conocidas, como Ubuntu.
 
-## Características del Software de Código Abierto
+## Características
 1. *Acceso libre al código fuente*:  
    Debian pone a disposición de todos el código fuente de sus programas. Esto permite que cualquier persona pueda:
    - Estudiar cómo funciona el sistema.
