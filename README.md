@@ -54,8 +54,6 @@ El proyecto utiliza principalmente la [Licencia Pública General de GNU (GPL)](h
 - *Eventos comunitarios*: Incluyen reuniones anuales como DebConf, hackatones y colaboraciones en línea a través de listas de correo y foros.
 
 
-Para más información, consulta la [Guía para Desarrolladores de Debian](https://www.debian.org/doc/manuals/developers-reference/).
-
 ## Recursos
 - *Página oficial*: [https://www.debian.org](https://www.debian.org)
 - *Wiki*: [https://wiki.debian.org](https://wiki.debian.org)
