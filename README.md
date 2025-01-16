@@ -33,7 +33,14 @@ Debian es un sistema operativo basado en software libre y de código abierto. Fu
 - *Seguridad*: Ofrece un seguimiento continuo de vulnerabilidades, con parches y actualizaciones rápidas.
 - *Costo cero*: Debian es completamente gratuito, sin tarifas de licencias ni costos ocultos, lo que lo hace accesible para todos.
 
-## Propósito, Licencia y Comunidad
+## Propósito y Licencia
+
+### Licencia
+El proyecto utiliza principalmente la [Licencia Pública General de GNU (GPL)](https://www.gnu.org/licenses/gpl.html). Esto asegura que:
+- El sistema es completamente libre para usar y distribuir.
+- Cualquier usuario puede modificar el software según sus necesidades.
+- Las mejoras y cambios pueden ser compartidos con la comunidad.
+
 
 ### Propósito
 Debian tiene como objetivos principales:
