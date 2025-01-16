@@ -1,5 +1,11 @@
 # Sistema Operativo Debian
 
+
+
+![debian](https://github.com/user-attachments/assets/58b0a3eb-0894-4635-af24-e69c5e43a9e0)
+
+
+
 ## ¿Qué es Debian?
 Debian es un sistema operativo basado en software libre y de código abierto. Fue creado en 1993 y es uno de los sistemas más estables y populares del mundo. Es utilizado por personas, organizaciones y empresas que buscan un sistema confiable y seguro. Además, Debian es completamente gratuito y sirve como base para otras distribuciones conocidas, como Ubuntu.
 
@@ -47,13 +53,6 @@ El proyecto utiliza principalmente la [Licencia Pública General de GNU (GPL)](h
 - *Proyecto Debian*: Está dirigido por un líder elegido democráticamente y organizado en equipos especializados (seguridad, documentación, traducción, etc.).
 - *Eventos comunitarios*: Incluyen reuniones anuales como DebConf, hackatones y colaboraciones en línea a través de listas de correo y foros.
 
-## ¿Cómo Contribuir a Debian?
-Debian es un proyecto abierto, y cualquier persona interesada puede participar. Aquí tienes algunas ideas para empezar:
-1. *Corrección de errores en la documentación*: Busca guías y manuales que necesiten mejoras.
-2. *Reporta errores*: Usa el [Sistema de Seguimiento de Errores (BTS)](https://www.debian.org/Bugs/) para informar problemas que encuentres.
-3. *Prueba nuevas versiones*: Ayuda a identificar errores en las versiones "Testing" e "Unstable".
-4. *Traduce contenido*: Contribuye traduciendo Debian y su documentación a tu idioma.
-5. *Sugiere mejoras*: Participa en las listas de correo o foros con ideas constructivas.
 
 Para más información, consulta la [Guía para Desarrolladores de Debian](https://www.debian.org/doc/manuals/developers-reference/).
 
