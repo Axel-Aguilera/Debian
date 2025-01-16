@@ -42,21 +42,4 @@ Debian tiene como objetivos principales:
 - Ser una plataforma que fomente el uso y desarrollo de software libre.
 - Ofrecer una base sólida para otras distribuciones de Linux.
 
-### Licencia
-El proyecto utiliza principalmente la [Licencia Pública General de GNU (GPL)](https://www.gnu.org/licenses/gpl.html). Esto asegura que:
-- El sistema es completamente libre para usar y distribuir.
-- Cualquier usuario puede modificar el software según sus necesidades.
-- Las mejoras y cambios pueden ser compartidos con la comunidad.
 
-### Comunidad
-- *Estructura*: La comunidad de Debian está formada por desarrolladores, mantenedores, traductores, documentadores y usuarios.
-- *Proyecto Debian*: Está dirigido por un líder elegido democráticamente y organizado en equipos especializados (seguridad, documentación, traducción, etc.).
-- *Eventos comunitarios*: Incluyen reuniones anuales como DebConf, hackatones y colaboraciones en línea a través de listas de correo y foros.
-
-
-## Recursos
-- *Página oficial*: [https://www.debian.org](https://www.debian.org)
-- *Wiki*: [https://wiki.debian.org](https://wiki.debian.org)
-- *Listas de correo*: [https://lists.debian.org](https://lists.debian.org)
-
----
